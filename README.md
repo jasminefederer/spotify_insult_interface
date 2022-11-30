@@ -8,7 +8,7 @@ the intended output would be a spotify playlist whereby the songs can be read as
 
 you will need:
 
-the elizabethan api (no key needed)
+the elizabethan insult api (no key needed)
 
 https://quandyfactory.com/insult
 
